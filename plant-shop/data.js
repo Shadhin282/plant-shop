@@ -190,7 +190,7 @@ function showProducts() {
             <img
               src="${product.img_url}"
               alt="Shoes"
-              class="rounded-xl w-70 h-70"
+              class="rounded-xl w-0 h-50"
             />
           </figure>
           <div class="card-body items-center text-center">
